@@ -4,8 +4,8 @@
 Welcome to the **30-Day Terraform Challenge** organized by the HashiCorp User Group - Yaoundé! This repository contains all the resources, daily tasks, and discussions for the challenge.
 
 ## 📅 Challenge Timeline
-- **Start Date**: August 17, 2024
-- **End Date**: September 16, 2024
+- **Start Date**: December 01, 2024
+- **End Date**: December 31, 2024
 
 ## 🛠 Resources
 - **Book**: [Terraform: Up & Running](https://www.terraformupandrunning.com/)
